@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ITGRCA_Main_Array">
+        <item>Main 1</item>
+        <item>Main 2</item>
+        <item>Main 3</item>
+        <item>Main 4</item>
+        <item>Main 5</item>
+    </string-array>
+    <string-array name="ITGRCA_Second_Array">
+        <item>Scnd 1</item>
+        <item>Scnd 2</item>
+        <item>Scnd 3</item>
+        <item>Scnd 4</item>
+        <item>Scnd 5</item>
+    </string-array>
+</resources>

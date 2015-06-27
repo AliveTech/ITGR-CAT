@@ -20,6 +20,10 @@
             android:name=".ITGRCentralActivity"
             android:label="@string/title_activity_itgrcentral" >
         </activity>
+        <activity
+            android:name=".NKTVCentralActivity"
+            android:label="@string/title_activity_nktvcentral" >
+        </activity>
     </application>
 
 </manifest>
