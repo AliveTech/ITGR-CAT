@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">ITGR-CAT</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="title">Welcome to ITGR-CAT</string>
+    <string name="btnITGR">IT Grossisten</string>
+    <string name="btnNKTV">Nærbø Kabel TV</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_itgrcentral">ITGRCentralActivity</string>
+
+    <string name="hello_world">Hello world!</string>
 </resources>
